@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paul De Decker / Sociolinguist"
+title                    : "This is Paul De Decker"
 title_separator          : "-"
 name                     : &name "Paul De Decker"
 description              : &description "personal description"
