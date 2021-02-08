@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Paul De Decker"
   avatar           : "profile.png"
-  bio              : "Associate Professor of Linguistics"
-  location         : "Memorial Univeresity of Newfoundland"
+  bio              : "Associate Professor / Linguistics"
+  location         : "Memorial University"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0166-3319"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
