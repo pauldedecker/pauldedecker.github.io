@@ -83,11 +83,10 @@ author:
   name             : "Paul De Decker"
   avatar           : "profile.png"
   bio              : "Associate Professor / Linguistics"
-  location         : "Memorial University"
-  employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "St. John's, NL"
+  employer         : "Memorial University"
   googlescholar    : "https://scholar.google.com/citations?user=LQ_3zksAAAAJ&hl=en"
-  email            :
+  email            : "pauldd@mun.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
