@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 2"
+title: "For the Record: Which Digital Media Can be Used for Sociophonetic Analysis?"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2011-10-01-DeDecker_Nycz
+excerpt: 'We looked the effect of smartphones, personal computers, consumer recorders and YouTube on representations of the vowel space.'
+date: 2011-10-01
+venue: 'University of Pennsylvania Working Papers in Linguistics'
+paperurl: 'https://repository.upenn.edu/pwpl/vol17/iss2/7'
+citation: 'De Decker, Paul and Nycz, Jennifer (2011). For the Record: Which Digital Media Can be Used for Sociophonetic Analysis?, <i>University of Pennsylvania Working Papers in Linguistics:</i> Vol. 17 : Iss. 2 , Article 7.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+We looked the effect of smartphones, personal computers, consumer recorders and YouTube on representations of the vowel space.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://repository.upenn.edu/pwpl/vol17/iss2/7)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation:
+
+De Decker, Paul and Nycz, Jennifer (2011). "For the Record: Which Digital Media Can be Used for Sociophonetic Analysis?," <i>University of Pennsylvania Working Papers in Linguistics:</i> Vol. 17 : Iss. 2 , Article 7.
+Available at: https://repository.upenn.edu/pwpl/vol17/iss2/7
