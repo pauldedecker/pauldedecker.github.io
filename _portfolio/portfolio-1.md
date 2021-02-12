@@ -22,5 +22,6 @@ The Canadian Mental Health Association, Newfoundland & Labrador (CMHA-NL) also s
 
 ![NLSA Logo](/images/NLSA-logo.jpg)
 ![NLASLPA Logo](/images/NLASLPA-logo.jpg)
+![SSI Logo](/images/SSI Logo 1.jpg)
 ![NLESD Logo](/images/NLESDlogo.png)
-![MUN Logo](/images/MUN-Logo.png)
+![MUN Logo](/images/MUN-Logo.jpg)
