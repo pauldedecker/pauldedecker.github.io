@@ -21,3 +21,6 @@ Our solidarity partnership leverages assistance from Eastern Health who will pro
 The Canadian Mental Health Association, Newfoundland & Labrador (CMHA-NL) also support this project. Through this research endeavour, policy and practice can be influenced by evidence-based decision making. CMHA-NL supports research in our province by and for marginalized populations which supports advocacy and system change. CMHA-NL will bring a mental health lens and focus to the research, contributing further value to this study.
 
 ![NLSA Logo](/images/NLSA-logo.jpg)
+![NLASLPA Logo](/images/NLASLPA-logo.jpg)
+![NLESD Logo](/images/NLESDlogo.png)
+![MUN Logo](/images/MUN-Logo.png)
