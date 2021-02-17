@@ -1,7 +1,7 @@
 ---
 title: "Remote Sociophonetic Data Collection: Vowels and Nasalization over Video Conferencing Apps"
 collection: publications
-permalink: /publication/2021-03-01-paper-title-number-3
+permalink: /publication/2021-03-01-Freeman_DeDecker
 excerpt: ''
 date: 2021-03-01
 venue: 'The Journal of the Acoustical Society of America'
