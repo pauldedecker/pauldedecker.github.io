@@ -2,7 +2,7 @@
 title: "For the Record: Which Digital Media Can be Used for Sociophonetic Analysis?"
 collection: publications
 permalink: /publication/2011-10-01-DeDecker_Nycz
-excerpt: 'We looked the effect of smartphones, personal computers, consumer recorders and YouTube on representations of the vowel space.'
+excerpt: 'We looked at the effect of smartphones, personal computers, consumer recorders and YouTube on representations of the vowel space.'
 date: 2011-10-01
 venue: 'University of Pennsylvania Working Papers in Linguistics'
 paperurl: 'https://repository.upenn.edu/pwpl/vol17/iss2/7'
