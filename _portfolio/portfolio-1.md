@@ -45,10 +45,8 @@ There are questions that ask about age, gender and other demographic information
 
 Likewise, there are some questions in this survey that will require a response from you in order to tailor the survey to your own experiences. These questions cannot be skipped but if you do not wish to provide an answer you may choose to exit the survey at that point. Closing the browser will result in an incomplete survey which will be deleted from our database. There is no penalty for withdrawing from the survey.
 
-For some people, some questions that ask about negative experiences related to stuttering may cause them to feel uncomfortable. These questions are not required so if you do not wish to provide an answer you may choose to skip those questions. There is no penalty for choosing to not answer such questions. 
 
-
-All response data will be stored online through the Qualtrics website, a survey website used by researchers around the world. Your responses will be stored in this database in a coded form (such as Respondent #1). No personally identifiable information will be linked to your responses.
+All response data will be stored online through the Qualtrics survey website. Your responses will be stored in this database in a coded form (such as Respondent #1). No personally identifiable information will be linked to your responses.
 
 
 
@@ -58,6 +56,7 @@ Members of the NLSA Solidarity Project will have access to results in a pooled f
 
 **What else should I know?**
 
+For some people, some questions that ask about negative experiences related to stuttering may cause them to feel uncomfortable. These questions are not required so if you do not wish to provide an answer you may choose to skip those questions. There is no penalty for choosing to not answer such questions.
 
 
 There are three people who may access the raw data (i.e. as individual responses) for the purposes of data analysis. They are: 
