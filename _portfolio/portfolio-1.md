@@ -1,24 +1,89 @@
 ---
-title: "The NLSA Solidarity Project"
-excerpt: "Collaborative Research with People Who Stutter and Stakeholders<br/><img src='/images/NLSA-logo.jpg'>"
+title: "Solidarity Project: Barriers and Accessibility Surveys"
+excerpt: "Statement of Anonymity and Confidentiality"
 collection: portfolio
 ---
 
-My partnership with the Newfoundland and Labrador Stuttering Association was made possible through an Undergraduate Summer Student Internship Program grant to my student, Laura Tulk (BA, Linguistics 2020), and a subsequent Quick Start Grant from the Office of Public Engagement.
+You are invited to complete a survey about Access to Services for People Who Stutter in Newfoundland and Labrador. This survey is part of The NLSA Solidarity Project, which is a cross-sector collaborative of people who stutter (PWS), members of provincial government, public-school teachers, speech-language pathologists (S-LP), academics, university students, mental health professionals, disability advocates, and members of the Newfoundland and Labrador Stuttering Association (NLSA). We are all brought together around a common goal to address the current needs of people who stutter in Newfoundland and Labrador. Please read the following before continuing. 
 
-That initial collaboration has grown into a solidarity research project (Yarbrough, 2020) that now includes > 20 members of various stakeholder organizations such as the Newfoundland and Labrador Association of Speech Language Pathologists and Audiologists, Eastern School District, Eastern Health, Department of Education, Canadian Mental Health Association of NL, the Disability Policy Office, Coalition of Persons with Disabilities NL, and the Association of Early Childhood Educators NL.
 
-Access to Services
 
-We are currently designing online surveys and community-based events to better understand the experiences People Who Stutter face in accessing limited stuttering treatment and mental health services in the province.
+**What is this project about?**
 
-Sociolinguistics of Stuttering: Project #1 Concealable Stimgatized Identity
 
-We anticipate interviewing ​40 PWS (20 CWS and 20 OAWS) and collecting experiences via the online survey from more PWS. ​PWS participants in this project will be invited to help direct the research process by providing insights on issues and questions they feel we should investigate.
 
-Our solidarity partnership leverages assistance from Eastern Health who will provide a consultative role to help with access to health literature, reviewing and analyzing literature, assisting with the development of surveys, and serving as another lens to help contextualize the data or reports. They have already provided a model for Community Engaged Research events and activities based on Bishop et al. 2020 that we intend to implement for this project. Note that we are not requesting funds from ARC-NL to set up and conduct community events as other sources will be utilized.
+This project has 4 goals: 
 
-The Canadian Mental Health Association, Newfoundland & Labrador (CMHA-NL) also support this project. Through this research endeavour, policy and practice can be influenced by evidence-based decision making. CMHA-NL supports research in our province by and for marginalized populations which supports advocacy and system change. CMHA-NL will bring a mental health lens and focus to the research, contributing further value to this study.
+
+
+a) to determine how many PWS live in NL. We currently do not know this basic fact about our province.
+
+b) to understand what services are available for Preschoolers (1-5yrs.), school age (6-13yrs), adolescents and adults (14-85 plus) who stutter, and identify any gaps in this system.
+
+c) to gauge awareness of resources available to PWS.
+
+d) to assess needs and access to resources for speech-language pathologists, early childhood educators, teachers, guidance counsellors, health clinicians, etc.
+
+
+
+**What will you do with my survey responses?**
+
+
+
+Data collected will be used in the following ways: 
+
+
+
+a) as evidence to identify deficits in intensive / specialized programs and services. We believe that this will help identify / reduce / eliminate barriers to the existing, limited clinical programs, services and supports in NL. 
+
+b) to advocate for government funding to research and establish the identified needed intensive / specialized programs, services and supports for PWS in our province. We also want to develop workshops/guides for participants to understand concealable social identities commonly held by PWS, and any mental health concerns that often go along with them. SLPs, ECE's, PWS, and community members will develop skills to become aware of the role of stigma associated with non-standard ways of speaking.
+
+
+
+**Will my answers be anonymous and confidential?**
+
+
+
+We are not collecting any personally identifiable data (e.g. names, addresses) from you. In this respect, your identity will remain anonymous. There are questions that ask about age, gender and other demographic information that will help us understand what different age groups might need in terms of services and support. This is why we collect such information. However, you are free to skip any questions that you do not wish to answer. 
+
+
+
+All response data will be stored online through the Qualtrics website, a survey website used by researchers around the world. Your responses will be stored in this database in a coded form (such as Respondent #1). No personally identifiable information will be linked to your responses.
+
+
+
+Members of the NLSA Solidarity Project will have access to results in a pooled format. You are free to not take part in this survey with no penalty to you. There is also no direct benefit to you as an individual in responding to this survey though we hope that this research will lead to improved access to services for PWS and assist ECE, Teachers, parents, SLPs in their ability to assist PWS. 
+
+
+
+**What else should I know?**
+
+
+
+There are three people who may access the raw data (i.e. as individual responses) for the purposes of data analysis. They are: 
+
+
+1) Dr. Paul De Decker, an Associate Professor of Linguistics at Memorial University.
+
+2) An undergraduate student research assistant and member of the Solidarity Project team 
+
+3) Greg O’Grady, Chair of the NLSA. 
+
+
+
+**Importantly,** at no time will any of these people know who contributed which response. 
+
+
+
+All raw data will be retained indefinitely for the purposes of advocacy for PWS in NL. 
+
+
+
+We will produce a final report that highlights any significant findings from the survey. This report will be publicly available and accessible from the project webpage at [nlsacollaborative.ca](http://nlsascollaborative.ca/)
+
+
+
+If you have any questions about your participation in this survey, please contact NLSA Chair, Greg O'Grady[gregog@rogers.com](mailto:gregog@rogers.com) for more information.
 
 ![NLSA Logo](/images/NLSA-logo.jpg)
 ![NLASLPA Logo](/images/NLASLPA-logo.jpg)
