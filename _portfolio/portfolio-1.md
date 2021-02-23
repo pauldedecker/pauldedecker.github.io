@@ -14,8 +14,6 @@ You are invited to complete a survey about Access to Services for People Who Stu
 
 This project has 4 goals: 
 
-
-
 a) to determine how many PWS live in NL. We currently do not know this basic fact about our province.
 
 b) to understand what services are available for Preschoolers (1-5yrs.), school age (6-13yrs), adolescents and adults (14-85 plus) who stutter, and identify any gaps in this system.
@@ -31,8 +29,6 @@ d) to assess needs and access to resources for speech-language pathologists, ear
 
 
 Data collected will be used in the following ways: 
-
-
 
 a) as evidence to identify deficits in intensive / specialized programs and services. We believe that this will help identify / reduce / eliminate barriers to the existing, limited clinical programs, services and supports in NL. 
 
