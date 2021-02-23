@@ -40,8 +40,12 @@ b) to advocate for government funding to research and establish the identified n
 
 
 
-We are not collecting any personally identifiable data (e.g. names, addresses) from you. In this respect, your identity will remain anonymous. There are questions that ask about age, gender and other demographic information that will help us understand what different age groups might need in terms of services and support. This is why we collect such information. However, you are free to skip any questions that you do not wish to answer. 
+There are questions that ask about age, gender and other demographic information that will help us understand what different age groups might need in terms of services and support. However, we are not collecting any personally identifiable data (e.g. names, addresses) from you. In this respect, your identity will remain anonymous.
 
+
+Likewise, there are some questions in this survey that will require a response from you in order to tailor the survey to your own experiences. These questions cannot be skipped but if you do not wish to provide an answer you may choose to exit the survey at that point. Closing the browser will result in an incomplete survey which will be deleted from our database. There is no penalty for withdrawing from the survey.
+
+For some people, some questions that ask about negative experiences related to stuttering may cause them to feel uncomfortable. These questions are not required so if you do not wish to provide an answer you may choose to skip those questions. There is no penalty for choosing to not answer such questions. 
 
 
 All response data will be stored online through the Qualtrics website, a survey website used by researchers around the world. Your responses will be stored in this database in a coded form (such as Respondent #1). No personally identifiable information will be linked to your responses.
