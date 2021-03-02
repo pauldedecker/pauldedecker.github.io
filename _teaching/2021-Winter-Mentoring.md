@@ -1,14 +1,14 @@
 ---
 title: "Sociolinguistics Online"
 collection: teaching
-type: "Undergraduate course"
+type: "Discussion/Reading Group"
 permalink: /teaching/2021-Winter-Mentoring
 venue: "Memorial University, Linguistics"
 date: 2021-01-01
 location: "online, international"
 ---
 
-This semester I have hosted the Sociolinguistics Online reading group for a number of advanced undergraduate and graduate students. We meet every other week to talk about our own research interests and to discuss published articles relevant to these interests. 
+This semester I have hosted the Sociolinguistics Online reading group for a number of advanced undergraduate and graduate students. We meet every other week to talk about our own research interests and to discuss published articles relevant to these interests.
 
 March 12, 2021
 
