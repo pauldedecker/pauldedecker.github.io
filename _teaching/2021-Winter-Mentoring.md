@@ -8,7 +8,13 @@ date: 2021-01-01
 location: "online, international"
 ---
 
-This semester I am hosting the Sociolinguistics Online reading group for a number of advanced undergraduate and graduate students. We meet every other week to talk about our own research interests and to discuss published articles relevant to these interests. This group is also open to the public. 
+This semester I am hosting the Sociolinguistics Online reading group for a number of advanced undergraduate and graduate students. We meet every other week to talk about our own research interests and to discuss published articles relevant to these interests. This group is also open to the public.
+
+
+April 9, 2021 (10am NL Time)
+
+Alm, P. A. (2014). Stuttering in relation to anxiety, temperament, and personality: Review and analysis with focus on causality. Journal of Fluency Disorders, 40, 5–21. https://doi.org/10.1016/j.jfludis.2014.01.004
+
 
 March 26, 2021 (10 am NL Time)
 
