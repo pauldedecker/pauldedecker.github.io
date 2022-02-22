@@ -18,14 +18,14 @@ We further hope this project will help challenge and mitigate public stigma towa
 
 It has resulted in a number of activties. First, with members of the NLSA, we produced the short documentary [Getting the Words Out], which aimed to raise public-awareness around stuttering by sharing personal experiences of people who stutter. It was nominated for best student short documentary film at the Silver Wave Film Festival.
 
-Building on the success of Getting the Words Out, a number of engaged stakeholders formed the [NLSA COLLABORATIVE](https://www.nlsacollaborative.ca), a research group on the social dimensions of stuttering and communication disorders.
+Building on the success of Getting the Words Out, a number of engaged stakeholders formed the Communication Collaborative, a research group that looks at the social dimensions of stuttering and communication disorders.
 
 We are currently recruiting participants for a survey to assess accessibility to services for people who student in Newfoundland and Labrador.
 
 In addition to this, our collaborative is working on a documentary pilot called "Finding the Right Therapy will Change your Life!"
 
-The NLSA COLLABORATIVE also produces the monthly [Some Stutter, Luh!](https://somestutterluh.ca), Newfoundland and Labrador's first podcast about stuttering. If you are a student and would like to get involved with the podcast, please send me an email.
+The COLLABORATIVE also produces the monthly [Some Stutter, Luh!](https://somestutterluh.ca), Newfoundland and Labrador's first podcast about stuttering. If you are a student and would like to get involved with the podcast, please send me an email.
 
 In 2021 we received funding from Atlantic OER to create a course module called "The Science of Stuttering".
 
-This project is ongoing and updates are regularly posted to the [NLSA COLLABORATIVE](https://www.nlsacollaborative.ca) webpage. 
+This project is ongoing and updates are regularly posted to the [NLSA COLLABORATIVE](https://www.nlsacollaborative.ca) webpage.
